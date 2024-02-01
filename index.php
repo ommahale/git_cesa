@@ -46,7 +46,7 @@
     </div>
     <main>
         <div class="px-4 d-flex flex-column justify-content-center text-center" style="height:100vh">
-            <img class="d-block mx-auto mb-4" src="./images/bwf-Logo.png" alt="Logo Image" width="72" height="60">
+            <img class="d-block mx-auto mb-4" src="./bwf-Logo.png" alt="Logo Image" width="72" height="60">
             <h1 class="display-5 fw-bold text-body-emphasis"><span class="first-text">Borderless</span> <span
                     class="second-text">World Foundation</span></h1>
             <div class="col-lg-6 mx-auto">
